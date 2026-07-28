@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\Joe\My Drive\ENGINEERING\Hardware\TeslaCoil\Design\DRSSTC Current Sense Rev B\DRSSTC CS Rev B.PcbDoc
+LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=drsstc cs rev b-plated.txt|DrillLayers=gtl,g1,g2,gbl
+LayersSetName=Top_Bot_NonPlated_Thru_Holes|DrillFile=drsstc cs rev b-nonplated.txt|DrillLayers=gtl,g1,g2,gbl

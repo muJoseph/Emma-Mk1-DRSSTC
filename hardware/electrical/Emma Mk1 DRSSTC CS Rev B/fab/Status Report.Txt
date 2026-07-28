@@ -1,0 +1,22 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [Low Diff Gain] of PCB Document [DRSSTC CS Rev B.PcbDoc]
+   Generated File[DRSSTC CS Rev B.GTO]
+   Generated File[DRSSTC CS Rev B.GTP]
+   Generated File[DRSSTC CS Rev B.GTS]
+   Generated File[DRSSTC CS Rev B.GTL]
+   Generated File[DRSSTC CS Rev B.G1]
+   Generated File[DRSSTC CS Rev B.G2]
+   Generated File[DRSSTC CS Rev B.GBL]
+   Generated File[DRSSTC CS Rev B.GBS]
+   Generated File[DRSSTC CS Rev B.GBP]
+   Generated File[DRSSTC CS Rev B.GBO]
+   Generated File[DRSSTC CS Rev B.GM]
+   Generated File[DRSSTC CS Rev B.EXTREP]
+   Generated File[DRSSTC CS Rev B.REP]
+
+
+Files Generated   : 13
+Documents Printed : 0
+
+Finished Output Generation At 5:58:12 PM On 1/5/2026

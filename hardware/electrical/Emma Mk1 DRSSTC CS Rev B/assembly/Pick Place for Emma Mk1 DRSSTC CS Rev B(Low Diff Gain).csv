@@ -1,0 +1,56 @@
+========================================================================================================================,,,,,,,,,,
+File Design Information:,,,,,,,,,,
+,,,,,,,,,,
+Date:       05/01/26,,,,,,,,,,
+Time:       17:57,,,,,,,,,,
+Revision:   Not in VersionControl,,,,,,,,,,
+Variant:    Low Diff Gain,,,,,,,,,,
+Units used: mm,,,,,,,,,,
+,,,,,,,,,,
+Designator,Footprint,Center-X(mm),Center-Y(mm),Ref-X(mm),Ref-Y(mm),Pad-X(mm),Pad-Y(mm),Layer,Rotation,Part Description
+C1,CAPC0805(2012)100_N,57.4040mm,4.4560mm,57.4040mm,4.4560mm,57.4040mm,5.3560mm,TopLayer,270,100nF 50V X7R ±10% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+C2,CAPC0805(2012)100_N,14.2240mm,18.9120mm,14.2240mm,18.9120mm,14.2240mm,19.8120mm,TopLayer,270,100nF 50V X7R ±10% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+C4,CAPC0805(2012)100_N,70.7731mm,16.8603mm,70.7731mm,16.8603mm,70.7731mm,15.9603mm,TopLayer,90,100nF 50V X7R ±10% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+D2,RB500SM-30FHT2R_JLCPCB,11.6840mm,40.1320mm,11.6840mm,40.1320mm,11.6840mm,39.3470mm,TopLayer,90,Diode 30 V 100mA Surface Mount EMD2
+D3,RB500SM-30FHT2R_JLCPCB,9.1440mm,40.1320mm,9.1440mm,40.1320mm,9.1440mm,40.9170mm,TopLayer,270,Diode 30 V 100mA Surface Mount EMD2
+D4,RB500SM-30FHT2R_JLCPCB,10.3910mm,25.9080mm,10.3910mm,25.9080mm,11.1760mm,25.9080mm,TopLayer,180,Diode 30 V 100mA Surface Mount EMD2
+D5,RB500SM-30FHT2R_JLCPCB,7.8970mm,25.9080mm,7.8970mm,25.9080mm,8.6820mm,25.9080mm,TopLayer,180,Diode 30 V 100mA Surface Mount EMD2
+D6,"CMS06(TE12L,Q,M)_JLCPCB",47.2440mm,30.9880mm,47.2440mm,30.9880mm,47.2440mm,28.7880mm,TopLayer,90,Diode 30 V 2A Surface Mount M-FLAT (2.4x3.8)
+D7,"CMS06(TE12L,Q,M)_JLCPCB",50.8000mm,30.9880mm,50.8000mm,30.9880mm,50.8000mm,28.7880mm,TopLayer,90,Diode 30 V 2A Surface Mount M-FLAT (2.4x3.8)
+D8,"CMS06(TE12L,Q,M)_JLCPCB",47.2440mm,37.5920mm,47.2440mm,37.5920mm,47.2440mm,35.3920mm,TopLayer,90,Diode 30 V 2A Surface Mount M-FLAT (2.4x3.8)
+D9,"CMS06(TE12L,Q,M)_JLCPCB",50.8000mm,37.5920mm,50.8000mm,37.5920mm,50.8000mm,35.3920mm,TopLayer,90,Diode 30 V 2A Surface Mount M-FLAT (2.4x3.8)
+D10,RB500SM-30FHT2R_JLCPCB,68.5800mm,38.1000mm,68.5800mm,38.1000mm,67.7950mm,38.1000mm,TopLayer,0,Diode 30 V 100mA Surface Mount EMD2
+D11,RB500SM-30FHT2R_JLCPCB,71.1200mm,38.1000mm,71.1200mm,38.1000mm,71.9050mm,38.1000mm,TopLayer,180,Diode 30 V 100mA Surface Mount EMD2
+FB1,FERRITE_BEAD_0805,54.8640mm,3.5560mm,54.8640mm,3.5560mm,54.0090mm,3.5560mm,TopLayer,0,600 Ohms @ 100 MHz 1 Power Line Ferrite Bead 0805 (2012 Metric) 2A 90mOhm
+L1,BWCU00201212900Y03,50.8000mm,3.8100mm,50.8000mm,3.8100mm,51.7250mm,4.2275mm,TopLayer,270,2 Line Common Mode Choke Surface Mount 90 Ohms @ 100 MHz 500mA DCR 300mOhm
+R1,RESC0805(2012)_N,26.4160mm,14.2240mm,26.4160mm,14.2240mm,26.4160mm,15.1740mm,TopLayer,270,"1.3 kOhms ±0.1% 0.125W, 1/8W Chip Resistor 0805 (2012 Metric) Automotive AEC-Q200 Thin Film"
+R2,RESC0805(2012)_N,28.4480mm,14.2240mm,28.4480mm,14.2240mm,28.4480mm,15.1740mm,TopLayer,270,"1.3 kOhms ±0.1% 0.125W, 1/8W Chip Resistor 0805 (2012 Metric) Automotive AEC-Q200 Thin Film"
+R4,RES1206R,30.4800mm,39.1160mm,30.4800mm,39.1160mm,31.9278mm,39.1160mm,TopLayer,180,"500 mOhms ±1% 0.5W, 1/2W Chip Resistor 1206 (3216 Metric) Current Sense Thick Film"
+R5,RESC0805(2012)_N,33.5280mm,35.0520mm,33.5280mm,35.0520mm,33.5280mm,36.0020mm,TopLayer,270,"10 kOhms ±0.1% 0.125W, 1/8W Chip Resistor 0805 (2012 Metric) Thin Film"
+R6,RESC0805(2012)_N,31.4960mm,35.0520mm,31.4960mm,35.0520mm,31.4960mm,34.1020mm,TopLayer,90,"10 kOhms ±0.1% 0.125W, 1/8W Chip Resistor 0805 (2012 Metric) Thin Film"
+R7,RESC0805(2012)_N,7.1120mm,15.7480mm,7.1120mm,15.7480mm,6.1620mm,15.7480mm,TopLayer,0,"1.3 kOhms ±0.1% 0.125W, 1/8W Chip Resistor 0805 (2012 Metric) Automotive AEC-Q200 Thin Film"
+R8,RESC0805(2012)_N,10.6680mm,13.7160mm,10.6680mm,13.7160mm,11.6180mm,13.7160mm,TopLayer,180,"1.3 kOhms ±0.1% 0.125W, 1/8W Chip Resistor 0805 (2012 Metric) Automotive AEC-Q200 Thin Film"
+R9,RES1206R,48.2600mm,26.4160mm,48.2600mm,26.4160mm,49.7078mm,26.4160mm,TopLayer,180,"500 mOhms ±1% 0.5W, 1/2W Chip Resistor 1206 (3216 Metric) Current Sense Thick Film"
+R10,RES1206R,52.3240mm,26.4160mm,52.3240mm,26.4160mm,53.7718mm,26.4160mm,TopLayer,180,"500 mOhms ±1% 0.5W, 1/2W Chip Resistor 1206 (3216 Metric) Current Sense Thick Film"
+R11,RESC0805(2012)_N,64.0080mm,19.8120mm,64.0080mm,19.8120mm,64.9580mm,19.8120mm,TopLayer,180,"10 kOhms ±0.1% 0.125W, 1/8W Chip Resistor 0805 (2012 Metric) Thin Film"
+R12,RESC0805(2012)_N,64.0080mm,17.7800mm,64.0080mm,17.7800mm,63.0580mm,17.7800mm,TopLayer,0,"10 kOhms ±0.1% 0.125W, 1/8W Chip Resistor 0805 (2012 Metric) Thin Film"
+R13,RESC0805(2012)_N,72.8051mm,22.9563mm,72.8051mm,22.9563mm,72.8051mm,23.9063mm,TopLayer,270,-55?~+155? 100V 100mW 3.92kO Thin Film Resistor ±0.1% ±10ppm/? 0805 Chip Resistor - Surface Mount ROHS
+R14,RESC0805(2012)_N,67.2171mm,29.5603mm,67.2171mm,29.5603mm,67.2171mm,30.5103mm,TopLayer,270,"1.3 kOhms ±0.1% 0.125W, 1/8W Chip Resistor 0805 (2012 Metric) Automotive AEC-Q200 Thin Film"
+R15,RESC0805(2012)_N,68.2331mm,32.6083mm,68.2331mm,32.6083mm,69.1831mm,32.6083mm,TopLayer,180,"33 mOhms ±1% 0.25W, 1/4W Chip Resistor 0805 (2012 Metric) Automotive AEC-Q200, Current Sense, Moisture Resistant Thick Film"
+R16,RESC0805(2012)_N,69.7571mm,29.5603mm,69.7571mm,29.5603mm,69.7571mm,30.5103mm,TopLayer,270,"1.3 kOhms ±0.1% 0.125W, 1/8W Chip Resistor 0805 (2012 Metric) Automotive AEC-Q200 Thin Film"
+R17,RESC0805(2012)_N,72.2971mm,27.0203mm,72.2971mm,27.0203mm,72.2971mm,27.9703mm,TopLayer,270,-55?~+155? 100V 100mW 3.92kO Thin Film Resistor ±0.1% ±10ppm/? 0805 Chip Resistor - Surface Mount ROHS
+TP1,RH-5015,32.5120mm,31.4960mm,32.5120mm,31.4960mm,32.5120mm,31.4960mm,TopLayer,180,2.67mmx1.02mm Ferrite Ring (SMD) Non-Plastic - Test Points / Test Rings ROHS
+TP2,RH-5015,27.4320mm,31.4960mm,27.4320mm,31.4960mm,27.4320mm,31.4960mm,TopLayer,180,2.67mmx1.02mm Ferrite Ring (SMD) Non-Plastic - Test Points / Test Rings ROHS
+TP3,RH-5015,18.2880mm,7.6200mm,18.2880mm,7.6200mm,18.2880mm,7.6200mm,TopLayer,0,2.67mmx1.02mm Ferrite Ring (SMD) Non-Plastic - Test Points / Test Rings ROHS
+TP4,RH-5015,18.2880mm,15.7480mm,18.2880mm,15.7480mm,18.2880mm,15.7480mm,TopLayer,180,2.67mmx1.02mm Ferrite Ring (SMD) Non-Plastic - Test Points / Test Rings ROHS
+TP5,RH-5015,18.2880mm,11.6840mm,18.2880mm,11.6840mm,18.2880mm,11.6840mm,TopLayer,0,2.67mmx1.02mm Ferrite Ring (SMD) Non-Plastic - Test Points / Test Rings ROHS
+TP6,RH-5015,47.2440mm,22.3520mm,47.2440mm,22.3520mm,47.2440mm,22.3520mm,TopLayer,0,2.67mmx1.02mm Ferrite Ring (SMD) Non-Plastic - Test Points / Test Rings ROHS
+TP7,RH-5015,52.3240mm,22.3520mm,52.3240mm,22.3520mm,52.3240mm,22.3520mm,TopLayer,0,2.67mmx1.02mm Ferrite Ring (SMD) Non-Plastic - Test Points / Test Rings ROHS
+TP8,RH-5015,67.2512mm,40.4402mm,67.2512mm,40.4402mm,67.2512mm,40.4402mm,TopLayer,0,2.67mmx1.02mm Ferrite Ring (SMD) Non-Plastic - Test Points / Test Rings ROHS
+TP9,RH-5015,73.1520mm,40.4148mm,73.1520mm,40.4148mm,73.1520mm,40.4148mm,TopLayer,180,2.67mmx1.02mm Ferrite Ring (SMD) Non-Plastic - Test Points / Test Rings ROHS
+TVS1,CPDQC3V3T-HF,13.7160mm,40.8940mm,13.7160mm,40.8940mm,13.7160mm,41.2440mm,TopLayer,270,6.2V Clamp 17A (8/20µs) Ipp Tvs Diode Surface Mount 0402C/SOD-923F
+TVS2,CPDQC3V3T-HF,9.1440mm,27.4320mm,9.1440mm,27.4320mm,9.4940mm,27.4320mm,TopLayer,180,6.2V Clamp 17A (8/20µs) Ipp Tvs Diode Surface Mount 0402C/SOD-923F
+TVS3,CPDQC3V3T-HF,53.3400mm,29.3060mm,53.3400mm,29.3060mm,53.3400mm,28.9560mm,TopLayer,90,6.2V Clamp 17A (8/20µs) Ipp Tvs Diode Surface Mount 0402C/SOD-923F
+TVS4,CPDQC3V3T-HF,68.0720mm,36.5760mm,68.0720mm,36.5760mm,67.7220mm,36.5760mm,TopLayer,0,6.2V Clamp 17A (8/20µs) Ipp Tvs Diode Surface Mount 0402C/SOD-923F
+U1,TLV9062IDR,10.1600mm,20.8280mm,10.1600mm,20.8280mm,12.0650mm,23.5530mm,TopLayer,270,CMOS Amplifier 2 Circuit Rail-to-Rail 8-SOIC
+U2,TLV9062IDR,68.7411mm,22.9563mm,68.7411mm,22.9563mm,70.6461mm,25.6813mm,TopLayer,270,CMOS Amplifier 2 Circuit Rail-to-Rail 8-SOIC

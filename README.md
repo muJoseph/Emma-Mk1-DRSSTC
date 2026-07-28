@@ -3,8 +3,13 @@
 ```text
 Emma-Mk1-DRSSTC/
 ├── hardware/
-│   ├── electrical
-│   ├── mechanical
+│   ├── electrical/
+        └── <board_name>
+            ├── assembly/                    # pick-and-place, etc.
+            ├── fab/                         # gerbers, NC drill
+            ├── SCHEM-<board_name>.pdf       # schematic
+            └── BOM-<board_name>.xlsx        # BOM
+│   ├── mechanical/
 ├── firmware/
 └── README.md
 ```

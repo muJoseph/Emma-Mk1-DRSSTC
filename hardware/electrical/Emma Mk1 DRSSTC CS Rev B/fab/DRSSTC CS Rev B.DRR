@@ -1,0 +1,22 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: DRSSTC CS Rev B.PcbDoc   1/5/2026  5:58:12 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII Plated RoundHoles File : DRSSTC CS Rev B-Plated.TXT
+ASCII Non-Plated RoundHoles File : DRSSTC CS Rev B-NonPlated.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      10mil (0.254mm)                                           Round             336       PTH        47.66inch (1210.52mm)
+T2      35mil (0.9mm)                                             Round             12        PTH        1.39inch (35.22mm)
+T3      40mil (1.016mm)         +/-2mil (0.051mm)                 Round             14        PTH        3.07inch (77.92mm)
+T4      55mil (1.397mm)                                           Round             6         PTH        3.07inch (78.10mm)
+T5      63mil (1.6mm)                                             Round             2         PTH        0.64inch (16.25mm)
+T6      138mil (3.5mm)                                            Round             4         PTH        7.31inch (185.62mm)
+T7      45mil (1.152mm)                                           Round             2         NPTH       2.86inch (72.75mm)
+T8      126mil (3.2mm)                                            Round             2         NPTH       0.50inch (12.70mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              378
+
+Total Processing Time (hh:mm:ss) : 00:00:00
