@@ -1,0 +1,4 @@
+Layer Pairs Export File for PCB: C:\Users\Joe\My Drive\ENGINEERING\Hardware\TeslaCoil\Design\DRSSTC MB Rev A\DRSSTC MB Rev A.PcbDoc
+LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=drsstc mb rev a-roundholes-plated.txt|DrillLayers=gtl,g1,g2,gbl
+LayersSetName=Top_Bot_Plated_Slot_Holes|DrillFile=drsstc mb rev a-slotholes-plated.txt|DrillLayers=gtl,g1,g2,gbl
+LayersSetName=Top_Bot_NonPlated_Thru_Holes|DrillFile=drsstc mb rev a-roundholes-nonplated.txt|DrillLayers=gtl,g1,g2,gbl

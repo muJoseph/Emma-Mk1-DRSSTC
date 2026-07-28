@@ -1,0 +1,138 @@
+========================================================================================================================,,,,,,,,,,
+File Design Information:,,,,,,,,,,
+,,,,,,,,,,
+Date:       05/01/26,,,,,,,,,,
+Time:       20:52,,,,,,,,,,
+Revision:   Not in VersionControl,,,,,,,,,,
+Variant:    JLCPCB Fabrication,,,,,,,,,,
+Units used: mm,,,,,,,,,,
+,,,,,,,,,,
+Designator,Footprint,Center-X(mm),Center-Y(mm),Ref-X(mm),Ref-Y(mm),Pad-X(mm),Pad-Y(mm),Layer,Rotation,Part Description
+C2,CAPC0805(2012)100_N,18.0387mm,20.0787mm,18.0387mm,20.0787mm,17.1387mm,20.0787mm,BottomLayer,0,2.2 µF ±10% 16V Ceramic Capacitor X7R 0805 (2012 Metric)
+C3,CAPC0805(2012)100_N,13.9747mm,17.5467mm,13.9747mm,17.5467mm,13.9747mm,18.4467mm,BottomLayer,270,22µF ±20% 16V Ceramic Capacitor X5R 0805 (2012 Metric)
+C5,CAPC0805(2012)100_N,18.0340mm,5.3340mm,18.0340mm,5.3340mm,18.0340mm,6.2340mm,TopLayer,270,100nF 50V X7R ±10% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+C6,CAPC0805(2012)100_N,113.2840mm,28.7020mm,113.2840mm,28.7020mm,113.2840mm,29.6020mm,TopLayer,270,1.2nF 50V NP0 ±2% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+C7,CAPC0805(2012)100_N,113.2840mm,31.7500mm,113.2840mm,31.7500mm,113.2840mm,32.6500mm,TopLayer,270,50V 6.8nF C0G ±5% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+C8,CAPC0805(2012)100_N,101.6000mm,42.9260mm,101.6000mm,42.9260mm,102.5000mm,42.9260mm,TopLayer,180,1.2nF 50V NP0 ±2% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+C9,CAPC0805(2012)100_N,113.2840mm,34.7980mm,113.2840mm,34.7980mm,113.2840mm,35.6980mm,TopLayer,270,1.2nF 50V NP0 ±2% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+C10,CAPC0805(2012)100_N,85.5980mm,15.4940mm,85.5980mm,15.4940mm,86.4980mm,15.4940mm,TopLayer,180,100nF 50V X7R ±10% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+C11,CAPC0805(2012)100_N,106.6800mm,38.6080mm,106.6800mm,38.6080mm,106.6800mm,37.7080mm,BottomLayer,90,100nF 50V X7R ±10% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+C12,CAPC0805(2012)100_N,103.1240mm,35.0520mm,103.1240mm,35.0520mm,102.2240mm,35.0520mm,BottomLayer,0,1uF 50V X7R ±10% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+C13,CAPC0805(2012)100_N,103.1240mm,37.5920mm,103.1240mm,37.5920mm,104.0240mm,37.5920mm,BottomLayer,180,100nF 50V X7R ±10% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+C14,CAPC0805(2012)100_N,103.1240mm,33.0200mm,103.1240mm,33.0200mm,104.0240mm,33.0200mm,BottomLayer,180,100nF 50V X7R ±10% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+C15,CAPC0805(2012)100_N,93.9800mm,28.1940mm,93.9800mm,28.1940mm,94.8800mm,28.1940mm,BottomLayer,180,1uF 50V X7R ±10% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+C16,CAPC0805(2012)100_N,92.9640mm,40.1320mm,92.9640mm,40.1320mm,93.8640mm,40.1320mm,BottomLayer,180,35V 4.7uF X7R ±10% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+C17,CAPC0805(2012)100_N,100.0760mm,28.9560mm,100.0760mm,28.9560mm,100.9760mm,28.9560mm,BottomLayer,180,100nF 50V X7R ±10% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+C18,CAPC0805(2012)100_N,103.1240mm,39.6240mm,103.1240mm,39.6240mm,102.2240mm,39.6240mm,BottomLayer,0,100nF 50V X7R ±10% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+C19,CAPC0805(2012)100_N,92.9640mm,37.8460mm,92.9640mm,37.8460mm,92.0640mm,37.8460mm,BottomLayer,0,100nF 50V X7R ±10% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+C20,CAPC0805(2012)100_N,93.2180mm,30.9880mm,93.2180mm,30.9880mm,93.2180mm,30.0880mm,BottomLayer,90,100nF 50V X7R ±10% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+C21,CAPC0805(2012)100_N,99.8220mm,33.7820mm,99.8220mm,33.7820mm,99.8220mm,34.6820mm,BottomLayer,270,100nF 50V X7R ±10% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+C22,CAPC0805(2012)100_N,98.0440mm,33.7820mm,98.0440mm,33.7820mm,98.0440mm,32.8820mm,BottomLayer,90,1uF 50V X7R ±10% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+C23,CAPC0805(2012)100_N,117.6020mm,52.8320mm,117.6020mm,52.8320mm,117.6020mm,53.7320mm,TopLayer,270,100nF 50V X7R ±10% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+C24,CAPC0805(2012)100_N,87.6300mm,22.6060mm,87.6300mm,22.6060mm,87.6300mm,21.7060mm,TopLayer,90,5.1pF 50V C0G 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+C25,CAPC0805(2012)100_N,93.7260mm,22.6060mm,93.7260mm,22.6060mm,93.7260mm,21.7060mm,TopLayer,90,5.1pF 50V C0G 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+C26,CAPC0805(2012)100_N,93.4720mm,33.5280mm,93.4720mm,33.5280mm,92.5720mm,33.5280mm,BottomLayer,0,100nF 50V X7R ±10% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+C27,CAPC0805(2012)100_N,95.7580mm,22.6060mm,95.7580mm,22.6060mm,95.7580mm,23.5060mm,TopLayer,270,10pF 50V C0G ±5% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+C28,CAPC0805(2012)100_N,101.3460mm,22.6060mm,101.3460mm,22.6060mm,101.3460mm,21.7060mm,TopLayer,90,10pF 50V C0G ±5% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+C29,CAPC0805(2012)100_N,33.0200mm,25.4000mm,33.0200mm,25.4000mm,33.0200mm,26.3000mm,BottomLayer,270,1uF 50V X7R ±10% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+C30,CAPC0805(2012)100_N,43.1800mm,25.4000mm,43.1800mm,25.4000mm,43.1800mm,26.3000mm,BottomLayer,270,1uF 50V X7R ±10% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+C31,CAPC0805(2012)100_N,53.3400mm,25.4000mm,53.3400mm,25.4000mm,53.3400mm,26.3000mm,BottomLayer,270,1uF 50V X7R ±10% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+C32,CAPC0805(2012)100_N,118.6180mm,21.8440mm,118.6180mm,21.8440mm,117.7180mm,21.8440mm,TopLayer,0,100nF 50V X7R ±10% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+FB1,FERRITE_BEAD_0805,19.5580mm,58.6740mm,19.5580mm,58.6740mm,19.5580mm,57.8190mm,TopLayer,90,1 100O@100MHz 150mO 800mA ±25% 0805 Ferrite Beads ROHS
+FB2,FERRITE_BEAD_0805,9.9060mm,25.9080mm,9.9060mm,25.9080mm,9.9060mm,26.7630mm,TopLayer,270,1 100O@100MHz 150mO 800mA ±25% 0805 Ferrite Beads ROHS
+FB3,FERRITE_BEAD_0805,9.6520mm,58.9280mm,9.6520mm,58.9280mm,9.6520mm,58.0730mm,TopLayer,90,1 100O@100MHz 150mO 800mA ±25% 0805 Ferrite Beads ROHS
+FB4,FERRITE_BEAD_0805,17.2720mm,25.9080mm,17.2720mm,25.9080mm,17.2720mm,26.7630mm,TopLayer,270,1 100O@100MHz 150mO 800mA ±25% 0805 Ferrite Beads ROHS
+FB5,FERRITE_BEAD_0805,8.8900mm,17.5260mm,8.8900mm,17.5260mm,8.8900mm,16.6710mm,TopLayer,90,1 100O@100MHz 150mO 800mA ±25% 0805 Ferrite Beads ROHS
+FB8,FERRITE_BEAD_0805,100.8380mm,10.9220mm,100.8380mm,10.9220mm,100.8380mm,10.0670mm,TopLayer,90,1 100O@100MHz 150mO 800mA ±25% 0805 Ferrite Beads ROHS
+FB9,FERRITE_BEAD_0805,128.2700mm,37.8460mm,128.2700mm,37.8460mm,129.1250mm,37.8460mm,TopLayer,180,1 100O@100MHz 150mO 800mA ±25% 0805 Ferrite Beads ROHS
+FB10,FERRITE_BEAD_0805,106.9340mm,36.3220mm,106.9340mm,36.3220mm,107.7890mm,36.3220mm,TopLayer,180,1 100O@100MHz 150mO 800mA ±25% 0805 Ferrite Beads ROHS
+FB11,FERRITE_BEAD_0805,99.5680mm,37.0840mm,99.5680mm,37.0840mm,99.5680mm,37.9390mm,BottomLayer,270,1 100O@100MHz 150mO 800mA ±25% 0805 Ferrite Beads ROHS
+L1,SMCM7060-102T,21.0820mm,52.5780mm,21.0820mm,52.5780mm,19.4570mm,49.8280mm,TopLayer,90,"-40?~+125? 1.02kO 10MO 125V 17mO 2 3A SMD,7x6mm Common Mode Filters ROHS"
+L2,SMCM7060-102T,6.8580mm,32.2580mm,6.8580mm,32.2580mm,8.4830mm,35.0080mm,TopLayer,270,"-40?~+125? 1.02kO 10MO 125V 17mO 2 3A SMD,7x6mm Common Mode Filters ROHS"
+L3,SMCM7060-102T,9.9060mm,52.5780mm,9.9060mm,52.5780mm,8.2810mm,49.8280mm,TopLayer,90,"-40?~+125? 1.02kO 10MO 125V 17mO 2 3A SMD,7x6mm Common Mode Filters ROHS"
+L4,SMCM7060-102T,15.7480mm,32.2580mm,15.7480mm,32.2580mm,17.3730mm,35.0080mm,TopLayer,270,"-40?~+125? 1.02kO 10MO 125V 17mO 2 3A SMD,7x6mm Common Mode Filters ROHS"
+L5,IND1210_(3225_Metric),12.1967mm,18.0467mm,12.1967mm,18.0467mm,12.1967mm,19.4517mm,TopLayer,270,10µH Unshielded Wirewound Inductor 900mA 172.9mOhm Max 1210 (3225 Metric)
+L6,BWCU00201212900Y03,100.5840mm,7.6200mm,100.5840mm,7.6200mm,101.0015mm,6.6950mm,TopLayer,180,2 Line Common Mode Choke Surface Mount 90 Ohms @ 100 MHz 500mA DCR 300mOhm
+L7,BWCU00201212900Y03,131.5720mm,38.1000mm,131.5720mm,38.1000mm,132.4970mm,38.5175mm,TopLayer,270,2 Line Common Mode Choke Surface Mount 90 Ohms @ 100 MHz 500mA DCR 300mOhm
+M1,DMN65D8L-7_STEP,42.7880mm,11.8430mm,42.7880mm,11.8430mm,41.8880mm,10.6680mm,TopLayer,90,-55?~+150? 1 N-Channel 22pF@25V 2pF@25V 310mA 3V@250uA 4O@5V 540mW 60V 870pC@10V SOT-23 MOSFETs ROHS
+M4,DMN65D8L-7_STEP,114.8080mm,8.8900mm,114.8080mm,8.8900mm,115.7080mm,10.0650mm,TopLayer,270,-55?~+150? 1 N-Channel 22pF@25V 2pF@25V 310mA 3V@250uA 4O@5V 540mW 60V 870pC@10V SOT-23 MOSFETs ROHS
+M5,DMN65D8L-7_STEP,120.3960mm,8.8900mm,120.3960mm,8.8900mm,121.2960mm,10.0650mm,TopLayer,270,-55?~+150? 1 N-Channel 22pF@25V 2pF@25V 310mA 3V@250uA 4O@5V 540mW 60V 870pC@10V SOT-23 MOSFETs ROHS
+M6,DMN65D8L-7_STEP,126.2380mm,8.8900mm,126.2380mm,8.8900mm,127.1380mm,10.0650mm,TopLayer,270,-55?~+150? 1 N-Channel 22pF@25V 2pF@25V 310mA 3V@250uA 4O@5V 540mW 60V 870pC@10V SOT-23 MOSFETs ROHS
+M7,DMN65D8L-7_STEP,131.8260mm,8.8900mm,131.8260mm,8.8900mm,132.7260mm,10.0650mm,TopLayer,270,-55?~+150? 1 N-Channel 22pF@25V 2pF@25V 310mA 3V@250uA 4O@5V 540mW 60V 870pC@10V SOT-23 MOSFETs ROHS
+M8,DMN65D8L-7_STEP,137.4140mm,8.8900mm,137.4140mm,8.8900mm,138.3140mm,10.0650mm,TopLayer,270,-55?~+150? 1 N-Channel 22pF@25V 2pF@25V 310mA 3V@250uA 4O@5V 540mW 60V 870pC@10V SOT-23 MOSFETs ROHS
+P1,MicroXNJ,94.9960mm,4.0640mm,94.9960mm,4.0640mm,93.6960mm,5.6640mm,TopLayer,0,"-20?~+85? 1 1.8A 30V 5,000 times 5P Black Female Micro-B Surface Mount, Right Angle USB 2.0 SMD USB Connectors ROHS"
+P2,MicroXNJ,106.6800mm,4.0640mm,106.6800mm,4.0640mm,105.3800mm,5.6640mm,TopLayer,0,"-20?~+85? 1 1.8A 30V 5,000 times 5P Black Female Micro-B Surface Mount, Right Angle USB 2.0 SMD USB Connectors ROHS"
+P3,TF-01A,83.3120mm,10.0150mm,83.3120mm,10.1600mm,81.0720mm,15.4360mm,BottomLayer,180,1.85mm Connector and Ejector MicroSD Card (TF Card) Push-Push With Locating Post SMD SD Card / Memory Card Connector ROHS
+R2,RESC0805(2012)_N,14.8566mm,23.1107mm,14.8566mm,23.1107mm,15.8066mm,23.1107mm,TopLayer,180,0 Ohms Jumper Chip Resistor 0805 (2012 Metric) Automotive AEC-Q200 Thick Film
+R3,RESC0805(2012)_N,41.9100mm,8.3820mm,41.9100mm,8.3820mm,41.9100mm,7.4320mm,TopLayer,90,0 Ohms Jumper Chip Resistor 0805 (2012 Metric) Automotive AEC-Q200 Thick Film
+R4,RESC0805(2012)_N,44.9580mm,7.6200mm,44.9580mm,7.6200mm,45.9080mm,7.6200mm,TopLayer,180,-55?~+155? 125mW 150V 1kO Thick Film Resistor ±1% ±100ppm/? 0805 Chip Resistor - Surface Mount ROHS
+R5,RESC0805(2012)_N,48.2600mm,36.3220mm,48.2600mm,36.3220mm,48.2600mm,35.3720mm,TopLayer,90,-55?~+155? 125mW 150V 300O Thick Film Resistor ±1% ±100ppm/? 0805 Chip Resistor - Surface Mount ROHS
+R6,RESC0805(2012)_N,133.8580mm,42.6720mm,133.8580mm,42.6720mm,134.8080mm,42.6720mm,BottomLayer,180,"1.3 kOhms ±0.1% 0.125W, 1/8W Chip Resistor 0805 (2012 Metric) Automotive AEC-Q200 Thin Film"
+R7,RESC0805(2012)_N,133.8580mm,31.2420mm,133.8580mm,31.2420mm,134.8080mm,31.2420mm,BottomLayer,180,"1.3 kOhms ±0.1% 0.125W, 1/8W Chip Resistor 0805 (2012 Metric) Automotive AEC-Q200 Thin Film"
+R8,RESC0805(2012)_N,115.8240mm,30.7340mm,115.8240mm,30.7340mm,116.7740mm,30.7340mm,TopLayer,180,-55?~+155? 100O 125mW 150V Thick Film Resistor ±1% ±100ppm/? 0805 Chip Resistor - Surface Mount ROHS
+R9,RESC0805(2012)_N,101.6000mm,44.9580mm,101.6000mm,44.9580mm,102.5500mm,44.9580mm,TopLayer,180,-55?~+155? 100O 125mW 150V Thick Film Resistor ±1% ±100ppm/? 0805 Chip Resistor - Surface Mount ROHS
+R10,RESC0805(2012)_N,115.8240mm,32.7660mm,115.8240mm,32.7660mm,116.7740mm,32.7660mm,TopLayer,180,-55?~+155? 100O 125mW 150V Thick Film Resistor ±1% ±100ppm/? 0805 Chip Resistor - Surface Mount ROHS
+R13,RESC0805(2012)_N,90.9320mm,17.7800mm,90.9320mm,17.7800mm,89.9820mm,17.7800mm,BottomLayer,0,"10 kOhms ±1% 0.125W, 1/8W Chip Resistor 0805 (2012 Metric) Automotive AEC-Q200 Thick Film"
+R14,RESC0805(2012)_N,105.6640mm,35.3060mm,105.6640mm,35.3060mm,105.6640mm,36.2560mm,BottomLayer,270,0 Ohms Jumper Chip Resistor 0805 (2012 Metric) Automotive AEC-Q200 Thick Film
+R15,RESC0805(2012)_N,90.6780mm,28.9560mm,90.6780mm,28.9560mm,90.6780mm,28.0060mm,BottomLayer,90,0 Ohms Jumper Chip Resistor 0805 (2012 Metric) Automotive AEC-Q200 Thick Film
+R17,RESC0805(2012)_N,118.6180mm,25.9080mm,118.6180mm,25.9080mm,117.6680mm,25.9080mm,TopLayer,0,0 Ohms Jumper Chip Resistor 0805 (2012 Metric) Automotive AEC-Q200 Thick Film
+R18,RESC0805(2012)_N,50.8000mm,36.3220mm,50.8000mm,36.3220mm,50.8000mm,35.3720mm,TopLayer,90,0 Ohms Jumper Chip Resistor 0805 (2012 Metric) Automotive AEC-Q200 Thick Film
+R19,RESC0805(2012)_N,106.8680mm,28.1940mm,106.8680mm,28.1940mm,105.9180mm,28.1940mm,TopLayer,0,0 Ohms Jumper Chip Resistor 0805 (2012 Metric) Automotive AEC-Q200 Thick Film
+R20,RESC0805(2012)_N,113.7920mm,38.1000mm,113.7920mm,38.1000mm,112.8420mm,38.1000mm,TopLayer,0,0 Ohms Jumper Chip Resistor 0805 (2012 Metric) Automotive AEC-Q200 Thick Film
+R21,RESC0805(2012)_N,111.4400mm,53.8480mm,111.4400mm,53.8480mm,110.4900mm,53.8480mm,TopLayer,0,0 Ohms Jumper Chip Resistor 0805 (2012 Metric) Automotive AEC-Q200 Thick Film
+R22,RESC0805(2012)_N,93.9800mm,51.8160mm,93.9800mm,51.8160mm,93.9800mm,50.8660mm,TopLayer,90,0 Ohms Jumper Chip Resistor 0805 (2012 Metric) Automotive AEC-Q200 Thick Film
+R23,RESC0805(2012)_N,91.9480mm,51.8160mm,91.9480mm,51.8160mm,91.9480mm,50.8660mm,TopLayer,90,0 Ohms Jumper Chip Resistor 0805 (2012 Metric) Automotive AEC-Q200 Thick Film
+R24,RESC0805(2012)_N,98.0440mm,51.8160mm,98.0440mm,51.8160mm,98.0440mm,52.7660mm,TopLayer,270,0 Ohms Jumper Chip Resistor 0805 (2012 Metric) Automotive AEC-Q200 Thick Film
+R25,RESC0805(2012)_N,96.0120mm,51.8160mm,96.0120mm,51.8160mm,96.0120mm,52.7660mm,TopLayer,270,0 Ohms Jumper Chip Resistor 0805 (2012 Metric) Automotive AEC-Q200 Thick Film
+R26,RESC0805(2012)_N,78.7400mm,17.7800mm,78.7400mm,17.7800mm,79.6900mm,17.7800mm,BottomLayer,180,0 Ohms Jumper Chip Resistor 0805 (2012 Metric) Automotive AEC-Q200 Thick Film
+R28,RESC0805(2012)_N,89.9160mm,43.1800mm,89.9160mm,43.1800mm,88.9660mm,43.1800mm,BottomLayer,0,0 Ohms Jumper Chip Resistor 0805 (2012 Metric) Automotive AEC-Q200 Thick Film
+R30,RESC0805(2012)_N,34.2900mm,8.3820mm,34.2900mm,8.3820mm,34.2900mm,9.3320mm,TopLayer,270,0 Ohms Jumper Chip Resistor 0805 (2012 Metric) Automotive AEC-Q200 Thick Film
+R31,RESC0805(2012)_N,31.7500mm,8.3820mm,31.7500mm,8.3820mm,31.7500mm,9.3320mm,TopLayer,270,0 Ohms Jumper Chip Resistor 0805 (2012 Metric) Automotive AEC-Q200 Thick Film
+R33,RESC0805(2012)_N,68.0720mm,44.7040mm,68.0720mm,44.7040mm,67.1220mm,44.7040mm,BottomLayer,0,"10 kOhms ±1% 0.125W, 1/8W Chip Resistor 0805 (2012 Metric) Automotive AEC-Q200 Thick Film"
+R36,RESC0805(2012)_N,41.9100mm,35.0520mm,41.9100mm,35.0520mm,42.8600mm,35.0520mm,BottomLayer,180,-55?~+155? 125mW 150V 1kO Thick Film Resistor ±1% ±100ppm/? 0805 Chip Resistor - Surface Mount ROHS
+R37,RESC0805(2012)_N,44.9580mm,37.0840mm,44.9580mm,37.0840mm,44.0080mm,37.0840mm,BottomLayer,0,-55?~+155? 125mW 150V 1kO Thick Film Resistor ±1% ±100ppm/? 0805 Chip Resistor - Surface Mount ROHS
+R38,RESC0805(2012)_N,67.3100mm,30.4800mm,67.3100mm,30.4800mm,68.2600mm,30.4800mm,BottomLayer,180,-55?~+155? 100O 125mW 150V Thick Film Resistor ±1% ±100ppm/? 0805 Chip Resistor - Surface Mount ROHS
+R39,RESC0805(2012)_N,37.5920mm,27.9400mm,37.5920mm,27.9400mm,37.5920mm,28.8900mm,TopLayer,270,0 Ohms Jumper Chip Resistor 0805 (2012 Metric) Automotive AEC-Q200 Thick Film
+R40,RESC0805(2012)_N,51.8160mm,21.3360mm,51.8160mm,21.3360mm,50.8660mm,21.3360mm,TopLayer,0,0 Ohms Jumper Chip Resistor 0805 (2012 Metric) Automotive AEC-Q200 Thick Film
+R41,RESC0805(2012)_N,123.1900mm,8.8900mm,123.1900mm,8.8900mm,123.1900mm,7.9400mm,TopLayer,90,-55?~+155? 125mW 150V 300O Thick Film Resistor ±1% ±100ppm/? 0805 Chip Resistor - Surface Mount ROHS
+R42,RESC0805(2012)_N,118.6180mm,23.8760mm,118.6180mm,23.8760mm,119.5680mm,23.8760mm,TopLayer,180,-55?~+155? 125mW 150V 1kO Thick Film Resistor ±1% ±100ppm/? 0805 Chip Resistor - Surface Mount ROHS
+R43,RESC0805(2012)_N,114.8080mm,11.6840mm,114.8080mm,11.6840mm,113.8580mm,11.6840mm,TopLayer,0,0 Ohms Jumper Chip Resistor 0805 (2012 Metric) Automotive AEC-Q200 Thick Film
+R44,RESC0805(2012)_N,120.3960mm,11.6840mm,120.3960mm,11.6840mm,119.4460mm,11.6840mm,TopLayer,0,0 Ohms Jumper Chip Resistor 0805 (2012 Metric) Automotive AEC-Q200 Thick Film
+R45,RESC0805(2012)_N,114.8080mm,13.4620mm,114.8080mm,13.4620mm,115.7580mm,13.4620mm,TopLayer,180,-55?~+155? 125mW 150V 1kO Thick Film Resistor ±1% ±100ppm/? 0805 Chip Resistor - Surface Mount ROHS
+R46,RESC0805(2012)_N,120.3960mm,13.4620mm,120.3960mm,13.4620mm,121.3460mm,13.4620mm,TopLayer,180,-55?~+155? 125mW 150V 1kO Thick Film Resistor ±1% ±100ppm/? 0805 Chip Resistor - Surface Mount ROHS
+R47,RESC0805(2012)_N,140.2080mm,8.8900mm,140.2080mm,8.8900mm,140.2080mm,7.9400mm,TopLayer,90,-55?~+155? 125mW 150V 300O Thick Film Resistor ±1% ±100ppm/? 0805 Chip Resistor - Surface Mount ROHS
+R48,RESC0805(2012)_N,129.0320mm,8.8900mm,129.0320mm,8.8900mm,129.0320mm,7.9400mm,TopLayer,90,-55?~+155? 125mW 150V 300O Thick Film Resistor ±1% ±100ppm/? 0805 Chip Resistor - Surface Mount ROHS
+R49,RESC0805(2012)_N,134.6200mm,8.8900mm,134.6200mm,8.8900mm,134.6200mm,7.9400mm,TopLayer,90,-55?~+155? 125mW 150V 300O Thick Film Resistor ±1% ±100ppm/? 0805 Chip Resistor - Surface Mount ROHS
+R50,RESC0805(2012)_N,126.2380mm,11.6840mm,126.2380mm,11.6840mm,125.2880mm,11.6840mm,TopLayer,0,0 Ohms Jumper Chip Resistor 0805 (2012 Metric) Automotive AEC-Q200 Thick Film
+R51,RESC0805(2012)_N,131.8260mm,11.6840mm,131.8260mm,11.6840mm,130.8760mm,11.6840mm,TopLayer,0,0 Ohms Jumper Chip Resistor 0805 (2012 Metric) Automotive AEC-Q200 Thick Film
+R52,RESC0805(2012)_N,137.4140mm,11.6840mm,137.4140mm,11.6840mm,136.4640mm,11.6840mm,TopLayer,0,0 Ohms Jumper Chip Resistor 0805 (2012 Metric) Automotive AEC-Q200 Thick Film
+R53,RESC0805(2012)_N,137.4140mm,13.4620mm,137.4140mm,13.4620mm,138.3640mm,13.4620mm,TopLayer,180,-55?~+155? 125mW 150V 1kO Thick Film Resistor ±1% ±100ppm/? 0805 Chip Resistor - Surface Mount ROHS
+R54,RESC0805(2012)_N,131.8260mm,13.4620mm,131.8260mm,13.4620mm,132.7760mm,13.4620mm,TopLayer,180,-55?~+155? 125mW 150V 1kO Thick Film Resistor ±1% ±100ppm/? 0805 Chip Resistor - Surface Mount ROHS
+R55,RESC0805(2012)_N,126.2380mm,13.4620mm,126.2380mm,13.4620mm,127.1880mm,13.4620mm,TopLayer,180,-55?~+155? 125mW 150V 1kO Thick Film Resistor ±1% ±100ppm/? 0805 Chip Resistor - Surface Mount ROHS
+RGB1,SKC6812RV,33.0200mm,25.4000mm,33.0200mm,25.4000mm,35.3700mm,23.8000mm,TopLayer,0,-40?~+85? 0.25mA 1.6mm 2000V 3.7V~5.5V 4.8mm 4kHz 5mm 620nm~625nm 800Kbit/s G:815mcd~1275mcd SMD5050-4P RGB LEDs(Built-in IC) ROHS
+RGB2,SKC6812RV,43.1800mm,25.4000mm,43.1800mm,25.4000mm,45.5300mm,23.8000mm,TopLayer,0,-40?~+85? 0.25mA 1.6mm 2000V 3.7V~5.5V 4.8mm 4kHz 5mm 620nm~625nm 800Kbit/s G:815mcd~1275mcd SMD5050-4P RGB LEDs(Built-in IC) ROHS
+RGB3,SKC6812RV,53.3400mm,25.4000mm,53.3400mm,25.4000mm,55.6900mm,23.8000mm,TopLayer,0,-40?~+85? 0.25mA 1.6mm 2000V 3.7V~5.5V 4.8mm 4kHz 5mm 620nm~625nm 800Kbit/s G:815mcd~1275mcd SMD5050-4P RGB LEDs(Built-in IC) ROHS
+SB1,SOLDER-BRIDGE-NO-RES0805,17.2720mm,58.6740mm,17.2720mm,58.6740mm,17.2720mm,59.6240mm,TopLayer,270,-55?~+155? 0O 125mW 150V Thick Film Resistor ±1% ±800ppm/? 0805 Chip Resistor - Surface Mount ROHS
+SB3,SOLDER-BRIDGE-NO-RES0805,7.3660mm,58.9280mm,7.3660mm,58.9280mm,7.3660mm,59.8780mm,TopLayer,270,-55?~+155? 0O 125mW 150V Thick Film Resistor ±1% ±800ppm/? 0805 Chip Resistor - Surface Mount ROHS
+SB6,SOLDER-BRIDGE-NO-RES0805,20.3200mm,4.0640mm,20.3200mm,4.0640mm,21.2700mm,4.0640mm,BottomLayer,180,-55?~+155? 0O 125mW 150V Thick Film Resistor ±1% ±800ppm/? 0805 Chip Resistor - Surface Mount ROHS
+SB7,SOLDER-BRIDGE-NO-RES0805,26.4160mm,8.3820mm,26.4160mm,8.3820mm,26.4160mm,9.3320mm,TopLayer,270,-55?~+155? 0O 125mW 150V Thick Film Resistor ±1% ±800ppm/? 0805 Chip Resistor - Surface Mount ROHS
+SB8,SOLDER-BRIDGE-NO-RES0603,28.1940mm,11.6840mm,28.1940mm,11.6840mm,28.1940mm,11.0340mm,TopLayer,90,"0 Ohms Jumper 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200 Thick Film"
+SB9,SOLDER-BRIDGE-NO-RES0603,29.9720mm,11.6840mm,29.9720mm,11.6840mm,29.9720mm,11.0340mm,TopLayer,90,"0 Ohms Jumper 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200 Thick Film"
+SB10,SOLDER-BRIDGE-NO-RES0603,49.5300mm,8.3820mm,49.5300mm,8.3820mm,49.5300mm,9.0320mm,TopLayer,270,"0 Ohms Jumper 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200 Thick Film"
+SB11,SOLDER-BRIDGE-NO-RES0603,62.2300mm,8.3820mm,62.2300mm,8.3820mm,62.2300mm,9.0320mm,TopLayer,270,"0 Ohms Jumper 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200 Thick Film"
+SB12,SOLDER-BRIDGE-NO-RES0805,103.1240mm,10.9220mm,103.1240mm,10.9220mm,103.1240mm,11.8720mm,TopLayer,270,-55?~+155? 0O 125mW 150V Thick Film Resistor ±1% ±800ppm/? 0805 Chip Resistor - Surface Mount ROHS
+SB16,SOLDER-BRIDGE-NO-RES0603,68.5800mm,22.8600mm,68.5800mm,22.8600mm,68.5800mm,23.5100mm,TopLayer,270,"0 Ohms Jumper 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200 Thick Film"
+SB17,SOLDER-BRIDGE-NO-RES0603,71.1200mm,22.8600mm,71.1200mm,22.8600mm,71.1200mm,22.2100mm,TopLayer,90,"0 Ohms Jumper 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200 Thick Film"
+TP5,RH-5015,78.7400mm,7.6200mm,78.7400mm,7.6200mm,78.7400mm,7.6200mm,TopLayer,0,2.67mmx1.02mm Ferrite Ring (SMD) Non-Plastic - Test Points / Test Rings ROHS
+TP6,RH-5015,78.7400mm,12.7000mm,78.7400mm,12.7000mm,78.7400mm,12.7000mm,TopLayer,0,2.67mmx1.02mm Ferrite Ring (SMD) Non-Plastic - Test Points / Test Rings ROHS
+TP7,RH-5015,83.8200mm,12.7000mm,83.8200mm,12.7000mm,83.8200mm,12.7000mm,TopLayer,0,2.67mmx1.02mm Ferrite Ring (SMD) Non-Plastic - Test Points / Test Rings ROHS
+TP8,RH-5015,88.9000mm,12.7000mm,88.9000mm,12.7000mm,88.9000mm,12.7000mm,TopLayer,0,2.67mmx1.02mm Ferrite Ring (SMD) Non-Plastic - Test Points / Test Rings ROHS
+TP9,RH-5015,88.9000mm,7.6200mm,88.9000mm,7.6200mm,88.9000mm,7.6200mm,TopLayer,180,2.67mmx1.02mm Ferrite Ring (SMD) Non-Plastic - Test Points / Test Rings ROHS
+TP10,RH-5015,83.8200mm,7.6200mm,83.8200mm,7.6200mm,83.8200mm,7.6200mm,TopLayer,180,2.67mmx1.02mm Ferrite Ring (SMD) Non-Plastic - Test Points / Test Rings ROHS
+TP12,RH-5015,40.6400mm,30.4800mm,40.6400mm,30.4800mm,40.6400mm,30.4800mm,TopLayer,0,2.67mmx1.02mm Ferrite Ring (SMD) Non-Plastic - Test Points / Test Rings ROHS
+TVS1,TPD4E004DRYR-TP,100.5840mm,4.5720mm,100.5840mm,4.5720mm,100.1990mm,5.0720mm,TopLayer,270,ESD SON-6(1x1.5) ESD and Surge Protection (TVS/ESD) ROHS
+TVS2,CPDQC3V3T-HF,113.7920mm,53.5940mm,113.7920mm,53.5940mm,113.7920mm,53.9440mm,TopLayer,270,6.2V Clamp 17A (8/20µs) Ipp Tvs Diode Surface Mount 0402C/SOD-923F
+U1,TPS62175DQCR,16.1157mm,20.0707mm,16.1157mm,20.0707mm,17.2407mm,19.0707mm,TopLayer,180,Buck Switching Regulator IC Positive Fixed 3.3V 1 Output 500mA 10-WFDFN Exposed Pad
+U3,ICC_LQFP64_10X10_P050_SOCKET_YAMAICHI_IC149-064-069-B5_NM,96.5200mm,34.5440mm,96.5200mm,34.5440mm,92.7700mm,28.6440mm,TopLayer,0,ARM® Cortex®-M4F STM32G4 Microcontroller IC 32-Bit 170MHz 512KB (512K x 8) FLASH 64-LQFP (10x10)
+Y1,NX3215SA_32.768KHZ_EXS00A-MU00525,90.6780mm,23.3680mm,90.6780mm,23.3680mm,92.1360mm,23.3680mm,TopLayer,180,-40?~+85? 32.768kHz 50kO 6pF SMD3215-2P Crystals ROHS
+Y2,XTM32024000FT00351001,98.5520mm,22.6060mm,98.5520mm,22.6060mm,97.4020mm,21.6560mm,TopLayer,0,-20?~+70? 24MHz 30O 9pF Crystal Oscillator ±10ppm ±10ppm SMD3225-4P Crystals ROHS
