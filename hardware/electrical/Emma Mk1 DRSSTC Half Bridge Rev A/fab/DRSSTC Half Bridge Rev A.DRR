@@ -1,0 +1,21 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: DRSSTC Half Bridge Rev A.PcbDoc   1/21/2026  9:45:48 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : DRSSTC Half Bridge Rev A.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      16mil (0.406mm)                                           Round             257       PTH        67.04inch (1702.87mm)
+T2      40mil (1.016mm)         +/-2mil (0.051mm)                 Round             4         PTH        4.66inch (118.35mm)
+T3      51mil (1.3mm)           +/-0mil (0mm)                     Round             4         PTH        1.82inch (46.12mm)
+T4      54mil (1.375mm)                                           Round             4         PTH        2.28inch (57.90mm)
+T5      61mil (1.56mm)                                            Round             6         PTH        4.47inch (113.56mm)
+T6      109mil (2.77mm)                                           Round             4         PTH        5.72inch (145.17mm)
+T7      138mil (3.5mm)                                            Round             4         PTH        12.03inch (305.65mm)
+T8      224mil (5.7mm)          +/-0mil (0mm)                     Round             6         PTH        6.97inch (176.95mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              289
+
+Total Processing Time (hh:mm:ss) : 00:00:00

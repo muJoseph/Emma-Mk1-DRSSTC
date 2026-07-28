@@ -1,0 +1,38 @@
+========================================================================================================================,,,,,,,,,,
+File Design Information:,,,,,,,,,,
+,,,,,,,,,,
+Date:       21/01/26,,,,,,,,,,
+Time:       19:39,,,,,,,,,,
+Revision:   Not in VersionControl,,,,,,,,,,
+Variant:    IGBT Screw On Heatsink,,,,,,,,,,
+Units used: mm,,,,,,,,,,
+,,,,,,,,,,
+Designator,Footprint,Center-X(mm),Center-Y(mm),Ref-X(mm),Ref-Y(mm),Pad-X(mm),Pad-Y(mm),Layer,Rotation,Part Description
+C1,C4AQNLW4500M33J,0.0000mm,-25.4000mm,0.0000mm,-25.4000mm,-18.7500mm,-30.5000mm,TopLayer,0,"5 µF Film Capacitor 1000V (1kV) Polypropylene (PP), Metallized Radial - 4 Leads"
+D1,DSS15UTR,-46.9900mm,17.1450mm,-46.9900mm,17.1450mm,-46.9900mm,18.5700mm,BottomLayer,270,Diode Schottky 50V 1A Surface Mount SOD-123FL
+D2,VS-15ETX06-M3_WITH_507302B00000G,-17.7800mm,0.1000mm,-17.7800mm,0.1000mm,-17.7800mm,-2.5400mm,TopLayer,90,Diode Standard 600V 15A Through Hole TO-220AC
+D3,DSS15UTR,46.9900mm,-27.9400mm,46.9900mm,-27.9400mm,46.9900mm,-29.3650mm,BottomLayer,90,Diode Schottky 50V 1A Surface Mount SOD-123FL
+D4,VS-15ETX06-M3_WITH_507302B00000G,17.7800mm,0.1000mm,17.7800mm,0.1000mm,17.7800mm,2.7400mm,TopLayer,270,Diode Standard 600V 15A Through Hole TO-220AC
+HS1,HSE17-252525P,-47.1170mm,-2.5400mm,-47.1170mm,-2.5400mm,-47.1170mm,10.1600mm,TopLayer,90,"Heat Sink TO-218, TO-220, TO-247 Aluminum Alloy 6.5W @ 75°C Board Level, Vertical"
+HS2,HSE17-252525P,47.1170mm,2.5400mm,47.1170mm,2.5400mm,47.1170mm,15.2400mm,TopLayer,270,"Heat Sink TO-218, TO-220, TO-247 Aluminum Alloy 6.5W @ 75°C Board Level, Vertical"
+J1,22-23-2021,-48.8950mm,24.1300mm,-48.8950mm,24.1300mm,-48.8950mm,25.4000mm,TopLayer,270,"Connector Header Through Hole 2 position 0.100 (2.54mm)"""
+J2,22-23-2021,48.8950mm,-35.5600mm,48.8950mm,-35.5600mm,48.8950mm,-36.8300mm,TopLayer,90,"Connector Header Through Hole 2 position 0.100 (2.54mm)"""
+Q1,IGW100N60H3FKSA1,-43.1800mm,-2.5400mm,-43.1800mm,-2.5400mm,-43.1800mm,-7.9800mm,TopLayer,180,IGBT Trench Field Stop 600 V 140 A 714 W Through Hole PG-TO247-3
+Q2,IGW100N60H3FKSA1,43.1800mm,2.5400mm,43.1800mm,2.5400mm,43.1800mm,7.9800mm,TopLayer,0,IGBT Trench Field Stop 600 V 140 A 714 W Through Hole PG-TO247-3
+R1,RES2512R,-50.8000mm,17.1450mm,-50.8000mm,17.1450mm,-50.8000mm,20.0700mm,BottomLayer,270,15 Ohms ±5% 2W Chip Resistor 2512 (6432 Metric)  Thick Film
+R2,RES2512R,50.8000mm,-27.9400mm,50.8000mm,-27.9400mm,50.8000mm,-30.8650mm,BottomLayer,90,15 Ohms ±5% 2W Chip Resistor 2512 (6432 Metric)  Thick Film
+TP1,RH-5015,-25.4000mm,-30.4800mm,-25.4000mm,-30.4800mm,-25.4000mm,-30.4800mm,TopLayer,90,2.67mmx1.02mm Ferrite Ring (SMD) Non-Plastic - Test Points / Test Rings ROHS
+TP2,RH-5015,-38.1000mm,-8.2550mm,-38.1000mm,-8.2550mm,-38.1000mm,-8.2550mm,BottomLayer,270,2.67mmx1.02mm Ferrite Ring (SMD) Non-Plastic - Test Points / Test Rings ROHS
+TP3,RH-5015,-38.1000mm,2.5400mm,-38.1000mm,2.5400mm,-38.1000mm,2.5400mm,BottomLayer,270,2.67mmx1.02mm Ferrite Ring (SMD) Non-Plastic - Test Points / Test Rings ROHS
+TP4,RH-5015,20.9550mm,29.8450mm,20.9550mm,29.8450mm,20.9550mm,29.8450mm,TopLayer,90,2.67mmx1.02mm Ferrite Ring (SMD) Non-Plastic - Test Points / Test Rings ROHS
+TP5,RH-5015,38.1000mm,8.2550mm,38.1000mm,8.2550mm,38.1000mm,8.2550mm,BottomLayer,90,2.67mmx1.02mm Ferrite Ring (SMD) Non-Plastic - Test Points / Test Rings ROHS
+TP6,RH-5015,38.1000mm,-2.5400mm,38.1000mm,-2.5400mm,38.1000mm,-2.5400mm,BottomLayer,90,2.67mmx1.02mm Ferrite Ring (SMD) Non-Plastic - Test Points / Test Rings ROHS
+TP7,RH-5015,25.4000mm,-30.4800mm,25.4000mm,-30.4800mm,25.4000mm,-30.4800mm,TopLayer,90,2.67mmx1.02mm Ferrite Ring (SMD) Non-Plastic - Test Points / Test Rings ROHS
+TVS1,SMCJ350CA,-27.9400mm,0.0000mm,-27.9400mm,0.0000mm,-27.9400mm,-2.8500mm,TopLayer,90,567V Clamp 2.6A Ipp Tvs Diode Surface Mount DO-214AB (SMCJ)
+TVS2,1.5SMC33CA,-48.2600mm,0.0000mm,-48.2600mm,0.0000mm,-48.2600mm,-2.8500mm,BottomLayer,90,45.7V Clamp 33.3A Ipp Tvs Diode Surface Mount DO-214AB (SMCJ)
+TVS3,SMCJ350CA,27.9400mm,0.0000mm,27.9400mm,0.0000mm,27.9400mm,2.8500mm,TopLayer,270,567V Clamp 2.6A Ipp Tvs Diode Surface Mount DO-214AB (SMCJ)
+TVS4,1.5SMC33CA,48.2600mm,2.5400mm,48.2600mm,2.5400mm,48.2600mm,5.3900mm,BottomLayer,270,45.7V Clamp 33.3A Ipp Tvs Diode Surface Mount DO-214AB (SMCJ)
+Z1,PDZVTFTR33B,-50.1650mm,-6.3500mm,-50.1650mm,-6.3500mm,-50.1650mm,-8.4250mm,TopLayer,90,Zener Diode 33V 1W ±6.06% Surface Mount PMDTM
+Z2,PDZVTFTR33B,-50.1650mm,0.0000mm,-50.1650mm,0.0000mm,-50.1650mm,2.0750mm,TopLayer,270,Zener Diode 33V 1W ±6.06% Surface Mount PMDTM
+Z3,PDZVTFTR33B,50.1650mm,5.0800mm,50.1650mm,5.0800mm,50.1650mm,7.1550mm,TopLayer,270,Zener Diode 33V 1W ±6.06% Surface Mount PMDTM
+Z4,PDZVTFTR33B,50.1650mm,-0.6350mm,50.1650mm,-0.6350mm,50.1650mm,-2.7100mm,TopLayer,90,Zener Diode 33V 1W ±6.06% Surface Mount PMDTM

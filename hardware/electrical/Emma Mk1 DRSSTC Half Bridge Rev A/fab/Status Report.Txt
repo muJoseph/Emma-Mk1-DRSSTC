@@ -1,0 +1,24 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [IGBT Screw On Heatsink] of PCB Document [DRSSTC Half Bridge Rev A.PcbDoc]
+   Generated File[DRSSTC Half Bridge Rev A.GTO]
+   Generated File[DRSSTC Half Bridge Rev A.GTP]
+   Generated File[DRSSTC Half Bridge Rev A.GTS]
+   Generated File[DRSSTC Half Bridge Rev A.GTL]
+   Generated File[DRSSTC Half Bridge Rev A.GBL]
+   Generated File[DRSSTC Half Bridge Rev A.GBS]
+   Generated File[DRSSTC Half Bridge Rev A.GBP]
+   Generated File[DRSSTC Half Bridge Rev A.GBO]
+   Generated File[DRSSTC Half Bridge Rev A.GM1]
+   Generated File[DRSSTC Half Bridge Rev A.GM13]
+   Generated File[DRSSTC Half Bridge Rev A.GPT]
+   Generated File[DRSSTC Half Bridge Rev A.GPB]
+   Generated File[DRSSTC Half Bridge Rev A.GM]
+   Generated File[DRSSTC Half Bridge Rev A.EXTREP]
+   Generated File[DRSSTC Half Bridge Rev A.REP]
+
+
+Files Generated   : 15
+Documents Printed : 0
+
+Finished Output Generation At 9:45:49 PM On 1/21/2026
