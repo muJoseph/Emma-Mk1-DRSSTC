@@ -1,0 +1,29 @@
+========================================================================================================================,,,,,,,,,,
+File Design Information:,,,,,,,,,,
+,,,,,,,,,,
+Date:       31/01/26,,,,,,,,,,
+Time:       22:33,,,,,,,,,,
+Revision:   Not in VersionControl,,,,,,,,,,
+Variant:    No variations,,,,,,,,,,
+Units used: mm,,,,,,,,,,
+,,,,,,,,,,
+Designator,Footprint,Center-X(mm),Center-Y(mm),Ref-X(mm),Ref-Y(mm),Pad-X(mm),Pad-Y(mm),Layer,Rotation,Part Description
+C1,ALS70A362KE250,-30.4800mm,-30.4800mm,-30.4800mm,-30.4800mm,-41.5800mm,-30.4800mm,TopLayer,0,"3600µF 250V Aluminum Electrolytic Capacitors Radial, Can - Screw Terminals 74mOhm @ 100Hz 18000 Hrs @ 85°C"
+C2,ALS70A362KE250,-30.4800mm,30.4800mm,-30.4800mm,30.4800mm,-41.5800mm,30.4800mm,TopLayer,0,"3600µF 250V Aluminum Electrolytic Capacitors Radial, Can - Screw Terminals 74mOhm @ 100Hz 18000 Hrs @ 85°C"
+C3,ALS70A362KE250,30.4800mm,-30.4800mm,30.4800mm,-30.4800mm,19.3800mm,-30.4800mm,TopLayer,0,"3600µF 250V Aluminum Electrolytic Capacitors Radial, Can - Screw Terminals 74mOhm @ 100Hz 18000 Hrs @ 85°C"
+C4,ALS70A362KE250,30.4800mm,30.4800mm,30.4800mm,30.4800mm,19.3800mm,30.4800mm,TopLayer,0,"3600µF 250V Aluminum Electrolytic Capacitors Radial, Can - Screw Terminals 74mOhm @ 100Hz 18000 Hrs @ 85°C"
+D1,VS-15ETX06-M3_WITH_507302B00000G,-87.6300mm,21.9440mm,-87.6300mm,21.9440mm,-87.6300mm,24.5840mm,TopLayer,270,Diode Standard 600V 15A Through Hole TO-220AC
+D2,VS-15ETX06-M3_WITH_507302B00000G,-74.9300mm,16.7640mm,-74.9300mm,16.7640mm,-74.9300mm,14.1240mm,TopLayer,90,Diode Standard 600V 15A Through Hole TO-220AC
+F1,6.96108E+11,-106.6800mm,-29.4640mm,-106.6800mm,-29.4640mm,-106.6800mm,-40.7640mm,TopLayer,90,Fuse Block 20A 250V 1 Circuit Cartridge Through Hole
+J1,22-23-2021,109.2200mm,1.0160mm,109.2200mm,1.0160mm,109.2200mm,-0.2540mm,TopLayer,90,"Connector Header Through Hole 2 position 0.100 (2.54mm)"""
+P1,7807,-106.1720mm,-3.9370mm,-106.1720mm,-3.9370mm,-111.5720mm,-9.1470mm,TopLayer,90,"6 Pin Screw Terminal, Power Tap M5 Through Hole"
+P2,7807,-106.1720mm,13.8430mm,-106.1720mm,13.8430mm,-111.5720mm,8.6330mm,TopLayer,90,"6 Pin Screw Terminal, Power Tap M5 Through Hole"
+R1,SL22_20007,-106.1720mm,5.2070mm,-106.1720mm,5.2070mm,-106.1720mm,1.3070mm,BottomLayer,90,"Inrush Current Limiter 20 Ohms ±25% 7A 0.866 (22.00mm)"""
+R2,SQMBW101K1J,104.1400mm,15.7480mm,104.1400mm,15.7480mm,109.6400mm,15.7480mm,TopLayer,180,"1.1 kOhms ±5% 10W Through Hole Resistor Radial Cement Coated, Flame Proof, Moisture Resistant, Safety Wirewound"
+R4,RES1206R,101.6000mm,-18.7960mm,101.6000mm,-18.7960mm,103.0478mm,-18.7960mm,TopLayer,180,"60.4 kOhms ±1% 1W Chip Resistor 1206 (3216 Metric) Automotive AEC-Q200, Pulse Withstanding Thick Film"
+R5,SMF520KJT,-29.4640mm,0.0000mm,-29.4640mm,0.0000mm,-21.7140mm,0.0000mm,TopLayer,180,"20 kOhms ±5% 5W Chip Resistor 5329 (13573 Metric), J-Lead Flame Retardant Coating, Safety Metal Film"
+R6,RES2512R,-27.6860mm,9.6520mm,-27.6860mm,9.6520mm,-24.7610mm,9.6520mm,TopLayer,180,60.4 kOhms ±1% 1W Chip Resistor 2512 (6332 Metric) Automotive AEC-Q200 Thick Film
+R7,SMF520KJT,29.4640mm,0.0000mm,29.4640mm,0.0000mm,37.2140mm,0.0000mm,BottomLayer,180,"20 kOhms ±5% 5W Chip Resistor 5329 (13573 Metric), J-Lead Flame Retardant Coating, Safety Metal Film"
+R8,RES2512R,27.4320mm,9.6520mm,27.4320mm,9.6520mm,30.3570mm,9.6520mm,BottomLayer,180,60.4 kOhms ±1% 1W Chip Resistor 2512 (6332 Metric) Automotive AEC-Q200 Thick Film
+R10,RES1206R,101.6000mm,-8.6360mm,101.6000mm,-8.6360mm,100.1522mm,-8.6360mm,BottomLayer,0,"60.4 kOhms ±1% 1W Chip Resistor 1206 (3216 Metric) Automotive AEC-Q200, Pulse Withstanding Thick Film"
+U1,CPC1983Y,83.8200mm,6.6040mm,83.8200mm,6.6040mm,83.8200mm,-2.2860mm,TopLayer,90,"Solid State Photo-Coupled Relay (Photorelay) SPST-NO (1 Form A) 8-SIP, 4 Leads"

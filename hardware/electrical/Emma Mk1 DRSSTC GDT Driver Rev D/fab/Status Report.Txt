@@ -1,0 +1,23 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [JLCPCB Fab] of PCB Document [DRSSTC GDT Driver Rev D.PcbDoc]
+   Generated File[DRSSTC GDT Driver Rev D.GTO]
+   Generated File[DRSSTC GDT Driver Rev D.GTP]
+   Generated File[DRSSTC GDT Driver Rev D.GTS]
+   Generated File[DRSSTC GDT Driver Rev D.GTL]
+   Generated File[DRSSTC GDT Driver Rev D.G1]
+   Generated File[DRSSTC GDT Driver Rev D.G2]
+   Generated File[DRSSTC GDT Driver Rev D.GBL]
+   Generated File[DRSSTC GDT Driver Rev D.GBS]
+   Generated File[DRSSTC GDT Driver Rev D.GBP]
+   Generated File[DRSSTC GDT Driver Rev D.GBO]
+   Generated File[DRSSTC GDT Driver Rev D.GM1]
+   Generated File[DRSSTC GDT Driver Rev D.GM]
+   Generated File[DRSSTC GDT Driver Rev D.EXTREP]
+   Generated File[DRSSTC GDT Driver Rev D.REP]
+
+
+Files Generated   : 14
+Documents Printed : 0
+
+Finished Output Generation At 10:06:49 AM On 1/22/2026

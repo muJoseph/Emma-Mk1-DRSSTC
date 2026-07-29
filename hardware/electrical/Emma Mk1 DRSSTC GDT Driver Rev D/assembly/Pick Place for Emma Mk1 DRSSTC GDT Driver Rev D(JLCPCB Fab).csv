@@ -1,0 +1,41 @@
+========================================================================================================================,,,,,,,,,,
+File Design Information:,,,,,,,,,,
+,,,,,,,,,,
+Date:       22/01/26,,,,,,,,,,
+Time:       10:06,,,,,,,,,,
+Revision:   Not in VersionControl,,,,,,,,,,
+Variant:    JLCPCB Fab,,,,,,,,,,
+Units used: mm,,,,,,,,,,
+,,,,,,,,,,
+Designator,Footprint,Center-X(mm),Center-Y(mm),Ref-X(mm),Ref-Y(mm),Pad-X(mm),Pad-Y(mm),Layer,Rotation,Part Description
+C1,CAPC0805(2012)100_N,35.0520mm,9.3980mm,35.0520mm,9.3980mm,35.0520mm,8.4980mm,TopLayer,90,100nF 50V X7R ±10% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+C2,UUD1H101MNL1GS,6.0960mm,28.9560mm,6.0960mm,28.9560mm,6.0960mm,32.2230mm,TopLayer,270,"-55?~+105? 10.5mm 100uF 150mA@120Hz 5000hrs@105? 50V 8mm ±20% SMD,D8xL10mm Aluminum Electrolytic Capacitors - SMD ROHS"
+C7,CAPC1206(3216),20.3200mm,38.1000mm,20.3200mm,38.1000mm,21.7700mm,38.1000mm,TopLayer,180,1µF ±10% 50V Ceramic Capacitor X7R 1206 (3216 Metric)
+C8,CAPC0805(2012)100_N,18.7960mm,23.8760mm,18.7960mm,23.8760mm,18.7960mm,24.7760mm,TopLayer,270,100nF 50V X7R ±10% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+C9,CAPC0805(2012)100_N,20.8280mm,35.5600mm,20.8280mm,35.5600mm,21.7280mm,35.5600mm,TopLayer,180,2.2uF 50V X5R ±10% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+C10,UUD1H101MNL1GS,41.1480mm,28.9560mm,41.1480mm,28.9560mm,41.1480mm,32.2230mm,TopLayer,270,"-55?~+105? 10.5mm 100uF 150mA@120Hz 5000hrs@105? 50V 8mm ±20% SMD,D8xL10mm Aluminum Electrolytic Capacitors - SMD ROHS"
+C12,CAPC0805(2012)100_N,34.2900mm,22.0980mm,34.2900mm,22.0980mm,35.1900mm,22.0980mm,TopLayer,180,100nF 50V X7R ±10% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+D1,SSL36,19.8120mm,28.9560mm,19.8120mm,28.9560mm,19.8120mm,31.1560mm,TopLayer,270,-55?~+125? 300uA@60V 3A 500mV@3A 60V 80A Independent SMA Schottky Diodes ROHS
+D2,SSL36,20.3200mm,16.2560mm,20.3200mm,16.2560mm,18.1200mm,16.2560mm,TopLayer,0,-55?~+125? 300uA@60V 3A 500mV@3A 60V 80A Independent SMA Schottky Diodes ROHS
+D3,SSL36,20.3200mm,12.7000mm,20.3200mm,12.7000mm,22.5200mm,12.7000mm,TopLayer,180,-55?~+125? 300uA@60V 3A 500mV@3A 60V 80A Independent SMA Schottky Diodes ROHS
+D4,SSL36,42.1640mm,21.8440mm,42.1640mm,21.8440mm,44.3640mm,21.8440mm,TopLayer,180,-55?~+125? 300uA@60V 3A 500mV@3A 60V 80A Independent SMA Schottky Diodes ROHS
+D5,SSL36,30.4800mm,16.2560mm,30.4800mm,16.2560mm,32.6800mm,16.2560mm,TopLayer,180,-55?~+125? 300uA@60V 3A 500mV@3A 60V 80A Independent SMA Schottky Diodes ROHS
+D6,SSL36,30.4800mm,12.7000mm,30.4800mm,12.7000mm,28.2800mm,12.7000mm,TopLayer,0,-55?~+125? 300uA@60V 3A 500mV@3A 60V 80A Independent SMA Schottky Diodes ROHS
+M1,FDD8424H-HXY,14.2240mm,28.9560mm,14.2240mm,28.9560mm,16.7640mm,25.4240mm,TopLayer,90,-55?~+150? 1 N-Channel + 1 P-Channel 1.5nF 135pF 20A 215pF 24mO@10V 24nC@10V 2V@250uA 40V 40W N-Channel + P-Channel TO-252-4L MOSFETs ROHS
+M2,FDD8424H-HXY,33.0200mm,28.9560mm,33.0200mm,28.9560mm,35.5600mm,25.4240mm,TopLayer,90,-55?~+150? 1 N-Channel + 1 P-Channel 1.5nF 135pF 20A 215pF 24mO@10V 24nC@10V 2V@250uA 40V 40W N-Channel + P-Channel TO-252-4L MOSFETs ROHS
+M3,DMN65D8L-7_STEP,39.6240mm,14.7320mm,39.6240mm,14.7320mm,39.6240mm,13.5570mm,TopLayer,270,-55?~+150? 1 N-Channel 22pF@25V 2pF@25V 310mA 3V@250uA 4O@5V 540mW 60V 870pC@10V SOT-23 MOSFETs ROHS
+R2,RESC0805(2012)_N,21.3360mm,23.8760mm,21.3360mm,23.8760mm,21.3360mm,24.8260mm,TopLayer,270,-55?~+155? 125mW 150V 1kO Thick Film Resistor ±1% ±100ppm/? 0805 Chip Resistor - Surface Mount ROHS
+R3,RES_2010_Power_Resistor,14.7320mm,38.1000mm,14.7320mm,38.1000mm,16.5320mm,38.1000mm,TopLayer,180,-55?~+155? 15O 200V 750mW Thick Film Resistor ±1% ±100ppm/? 2010 Chip Resistor - Surface Mount ROHS
+R4,RESC0805(2012)_N,21.3360mm,19.3040mm,21.3360mm,19.3040mm,22.2860mm,19.3040mm,TopLayer,180,0 Ohms Jumper Chip Resistor 0805 (2012 Metric) Automotive AEC-Q200 Thick Film
+R5,RESC0805(2012)_N,37.3380mm,22.8600mm,37.3380mm,22.8600mm,37.3380mm,21.9100mm,TopLayer,90,-55?~+155? 125mW 150V 1kO Thick Film Resistor ±1% ±100ppm/? 0805 Chip Resistor - Surface Mount ROHS
+R6,RESC0805(2012)_N,29.9060mm,19.3040mm,29.9060mm,19.3040mm,28.9560mm,19.3040mm,TopLayer,0,0 Ohms Jumper Chip Resistor 0805 (2012 Metric) Automotive AEC-Q200 Thick Film
+R8,RESC0805(2012)_N,42.6720mm,17.2720mm,42.6720mm,17.2720mm,42.6720mm,18.2220mm,TopLayer,270,0 Ohms Jumper Chip Resistor 0805 (2012 Metric) Automotive AEC-Q200 Thick Film
+R9,RESC0805(2012)_N,39.6240mm,18.2880mm,39.6240mm,18.2880mm,40.5740mm,18.2880mm,TopLayer,180,-55?~+155? 125mW 150V 1kO Thick Film Resistor ±1% ±100ppm/? 0805 Chip Resistor - Surface Mount ROHS
+TP1,RH-5015,8.8900mm,44.4500mm,8.8900mm,44.4500mm,8.8900mm,44.4500mm,TopLayer,0,2.67mmx1.02mm Ferrite Ring (SMD) Non-Plastic - Test Points / Test Rings ROHS
+TP2,RH-5015,46.9900mm,44.4500mm,46.9900mm,44.4500mm,46.9900mm,44.4500mm,TopLayer,0,2.67mmx1.02mm Ferrite Ring (SMD) Non-Plastic - Test Points / Test Rings ROHS
+TP3,RH-5015,20.8280mm,40.6400mm,20.8280mm,40.6400mm,20.8280mm,40.6400mm,TopLayer,180,2.67mmx1.02mm Ferrite Ring (SMD) Non-Plastic - Test Points / Test Rings ROHS
+TP4,RH-5015,10.1600mm,15.2400mm,10.1600mm,15.2400mm,10.1600mm,15.2400mm,TopLayer,0,2.67mmx1.02mm Ferrite Ring (SMD) Non-Plastic - Test Points / Test Rings ROHS
+TP5,RH-5015,36.0680mm,40.1320mm,36.0680mm,40.1320mm,36.0680mm,40.1320mm,TopLayer,0,2.67mmx1.02mm Ferrite Ring (SMD) Non-Plastic - Test Points / Test Rings ROHS
+TP6,RH-5015,35.5600mm,18.2880mm,35.5600mm,18.2880mm,35.5600mm,18.2880mm,TopLayer,90,2.67mmx1.02mm Ferrite Ring (SMD) Non-Plastic - Test Points / Test Rings ROHS
+U1,"PCT2075DP,118",30.4800mm,7.1120mm,30.4800mm,7.1120mm,28.2550mm,8.0870mm,TopLayer,0,"Temperature Sensor Digital, Local -55°C ~ 125°C 11 b 8-TSSOP"
+U2,UCC27624DGNR_JLCPCB,25.0750mm,7.9350mm,25.0750mm,7.9350mm,24.1000mm,5.7100mm,TopLayer,90,-40?~+150? 1.8V~2.3V 2 4.5V~26V 450uA 5A 5A 6ns 800mV~1.2V 9ns IGBT Low Side Under Voltage Protection HVSSOP-8 Gate Drivers ROHS

@@ -1,0 +1,17 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: DRSSTC GDT Driver Rev D.PcbDoc   1/22/2026  10:06:49 AM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII Plated RoundHoles File : DRSSTC GDT Driver Rev D-Plated.TXT
+ASCII Non-Plated RoundHoles File : DRSSTC GDT Driver Rev D-NonPlated.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      10mil (0.254mm)                                           Round             97        PTH        17.16inch (435.86mm)
+T2      40mil (1.016mm)         +/-2mil (0.051mm)                 Round             24        PTH        7.84inch (199.14mm)
+T3      45mil (1.152mm)                                           Round             3         NPTH       3.71inch (94.12mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              124
+
+Total Processing Time (hh:mm:ss) : 00:00:00

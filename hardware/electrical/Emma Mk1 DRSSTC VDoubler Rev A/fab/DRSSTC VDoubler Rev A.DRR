@@ -1,0 +1,24 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: DRSSTC VDoubler Rev A.PcbDoc   1/31/2026  10:33:23 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : DRSSTC VDoubler Rev A.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      16mil (0.406mm)                                           Round             249       PTH        64.19inch (1630.52mm)
+T2      40mil (1.016mm)         +/-2mil (0.051mm)                 Round             2         PTH        0.10inch (2.54mm)
+T3      45mil (1.15mm)          +/-0mil (0mm)                     Round             2         PTH        0.31inch (7.80mm)
+T4      47mil (1.2mm)                                             Round             2         PTH        0.43inch (11.00mm)
+T5      50mil (1.265mm)                                           Round             4         PTH        0.70inch (17.78mm)
+T6      51mil (1.3mm)           +/-0mil (0mm)                     Round             4         PTH        0.96inch (24.28mm)
+T7      68mil (1.725mm)         +/-0mil (0mm)                     Round             2         PTH        0.89inch (22.60mm)
+T8      104mil (2.64mm)         +0mil (0mm)/-3mil (0.07mm)        Round             12        PTH        3.19inch (81.06mm)
+T9      138mil (3.5mm)                                            Round             19        PTH        38.14inch (968.76mm)
+T10     224mil (5.7mm)          +/-0mil (0mm)                     Round             10        PTH        16.88inch (428.66mm)
+T11     230mil (5.85mm)         +/-0mil (0mm)                     Round             8         PTH        9.82inch (249.48mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              314
+
+Total Processing Time (hh:mm:ss) : 00:00:00

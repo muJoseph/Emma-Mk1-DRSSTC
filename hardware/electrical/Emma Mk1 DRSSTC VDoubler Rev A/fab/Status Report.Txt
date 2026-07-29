@@ -1,0 +1,24 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of PCB Document [DRSSTC VDoubler Rev A.PcbDoc]
+   Generated File[DRSSTC VDoubler Rev A.GTO]
+   Generated File[DRSSTC VDoubler Rev A.GTP]
+   Generated File[DRSSTC VDoubler Rev A.GTS]
+   Generated File[DRSSTC VDoubler Rev A.GTL]
+   Generated File[DRSSTC VDoubler Rev A.GBL]
+   Generated File[DRSSTC VDoubler Rev A.GBS]
+   Generated File[DRSSTC VDoubler Rev A.GBP]
+   Generated File[DRSSTC VDoubler Rev A.GBO]
+   Generated File[DRSSTC VDoubler Rev A.GM1]
+   Generated File[DRSSTC VDoubler Rev A.GM13]
+   Generated File[DRSSTC VDoubler Rev A.GPT]
+   Generated File[DRSSTC VDoubler Rev A.GPB]
+   Generated File[DRSSTC VDoubler Rev A.GM]
+   Generated File[DRSSTC VDoubler Rev A.EXTREP]
+   Generated File[DRSSTC VDoubler Rev A.REP]
+
+
+Files Generated   : 15
+Documents Printed : 0
+
+Finished Output Generation At 10:33:23 PM On 1/31/2026
