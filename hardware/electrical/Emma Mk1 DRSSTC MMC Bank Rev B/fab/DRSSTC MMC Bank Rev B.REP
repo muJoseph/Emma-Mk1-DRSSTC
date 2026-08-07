@@ -1,0 +1,169 @@
+*************************************************************
+FileName = DRSSTC MMC Bank Rev B.GBR
+AutoAperture = True
+*************************************************************
+Generating : Top Solder
+      File : DRSSTC MMC Bank Rev B.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D12
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : DRSSTC MMC Bank Rev B.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D12
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : DRSSTC MMC Bank Rev B.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D19
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : DRSSTC MMC Bank Rev B.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D15
+    D16
+    D17
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : DRSSTC MMC Bank Rev B.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : DRSSTC MMC Bank Rev B.GPT
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D15
+    D16
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : DRSSTC MMC Bank Rev B.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D15
+    D16
+    D17
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : DRSSTC MMC Bank Rev B.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : DRSSTC MMC Bank Rev B.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : DRSSTC MMC Bank Rev B.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D18
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : DRSSTC MMC Bank Rev B.GPB
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D15
+    D16
+*************************************************************
+
+*************************************************************
+Generating : Profile
+      File : DRSSTC MMC Bank Rev B.GM
+
+
+Used DCodes :
+    D20
+*************************************************************
+

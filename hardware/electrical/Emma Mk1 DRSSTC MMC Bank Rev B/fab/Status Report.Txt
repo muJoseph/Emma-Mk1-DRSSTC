@@ -1,0 +1,23 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of PCB Document [DRSSTC MMC Bank Rev B.PcbDoc]
+   Generated File[DRSSTC MMC Bank Rev B.GTO]
+   Generated File[DRSSTC MMC Bank Rev B.GTP]
+   Generated File[DRSSTC MMC Bank Rev B.GTS]
+   Generated File[DRSSTC MMC Bank Rev B.GTL]
+   Generated File[DRSSTC MMC Bank Rev B.GBL]
+   Generated File[DRSSTC MMC Bank Rev B.GBS]
+   Generated File[DRSSTC MMC Bank Rev B.GBP]
+   Generated File[DRSSTC MMC Bank Rev B.GBO]
+   Generated File[DRSSTC MMC Bank Rev B.GM1]
+   Generated File[DRSSTC MMC Bank Rev B.GPT]
+   Generated File[DRSSTC MMC Bank Rev B.GPB]
+   Generated File[DRSSTC MMC Bank Rev B.GM]
+   Generated File[DRSSTC MMC Bank Rev B.EXTREP]
+   Generated File[DRSSTC MMC Bank Rev B.REP]
+
+
+Files Generated   : 14
+Documents Printed : 0
+
+Finished Output Generation At 10:51:13 PM On 1/31/2026

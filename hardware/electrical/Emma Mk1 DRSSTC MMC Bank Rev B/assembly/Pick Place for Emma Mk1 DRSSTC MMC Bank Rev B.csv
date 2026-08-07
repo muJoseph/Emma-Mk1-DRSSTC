@@ -1,0 +1,26 @@
+========================================================================================================================,,,,,,,,,,
+File Design Information:,,,,,,,,,,
+,,,,,,,,,,
+Date:       31/01/26,,,,,,,,,,
+Time:       22:51,,,,,,,,,,
+Revision:   Not in VersionControl,,,,,,,,,,
+Variant:    No variations,,,,,,,,,,
+Units used: mm,,,,,,,,,,
+,,,,,,,,,,
+Designator,Footprint,Center-X(mm),Center-Y(mm),Ref-X(mm),Ref-Y(mm),Pad-X(mm),Pad-Y(mm),Layer,Rotation,Part Description
+C1,R75TR318050H2J,26.6700mm,59.6900mm,26.6700mm,59.6900mm,26.6700mm,45.9400mm,TopLayer,90,"0.18 µF Film Capacitor 650V 1600V (1.6kV) Polypropylene (PP), Metallized Radial"
+C2,R75TR318050H2J,52.0700mm,59.6900mm,52.0700mm,59.6900mm,52.0700mm,73.4400mm,TopLayer,270,"0.18 µF Film Capacitor 650V 1600V (1.6kV) Polypropylene (PP), Metallized Radial"
+C3,R75TR318050H2J,77.4700mm,59.6900mm,77.4700mm,59.6900mm,77.4700mm,45.9400mm,TopLayer,90,"0.18 µF Film Capacitor 650V 1600V (1.6kV) Polypropylene (PP), Metallized Radial"
+C4,R75TR318050H2J,102.8700mm,59.6900mm,102.8700mm,59.6900mm,102.8700mm,73.4400mm,TopLayer,270,"0.18 µF Film Capacitor 650V 1600V (1.6kV) Polypropylene (PP), Metallized Radial"
+C5,R75TR318050H2J,128.2700mm,59.6900mm,128.2700mm,59.6900mm,128.2700mm,45.9400mm,TopLayer,90,"0.18 µF Film Capacitor 650V 1600V (1.6kV) Polypropylene (PP), Metallized Radial"
+C6,R75TR318050H2J,153.6700mm,59.6900mm,153.6700mm,59.6900mm,153.6700mm,73.4400mm,TopLayer,270,"0.18 µF Film Capacitor 650V 1600V (1.6kV) Polypropylene (PP), Metallized Radial"
+C7,R75TR318050H2J,179.0700mm,59.6900mm,179.0700mm,59.6900mm,179.0700mm,45.9400mm,TopLayer,90,"0.18 µF Film Capacitor 650V 1600V (1.6kV) Polypropylene (PP), Metallized Radial"
+C8,R75TR318050H2J,204.4700mm,59.6900mm,204.4700mm,59.6900mm,204.4700mm,73.4400mm,TopLayer,270,"0.18 µF Film Capacitor 650V 1600V (1.6kV) Polypropylene (PP), Metallized Radial"
+C9,R75TR318050H2J,26.6700mm,19.0500mm,26.6700mm,19.0500mm,26.6700mm,32.8000mm,TopLayer,270,"0.18 µF Film Capacitor 650V 1600V (1.6kV) Polypropylene (PP), Metallized Radial"
+C10,R75TR318050H2J,52.0700mm,19.0500mm,52.0700mm,19.0500mm,52.0700mm,5.3000mm,TopLayer,90,"0.18 µF Film Capacitor 650V 1600V (1.6kV) Polypropylene (PP), Metallized Radial"
+C11,R75TR318050H2J,77.4700mm,19.0500mm,77.4700mm,19.0500mm,77.4700mm,32.8000mm,TopLayer,270,"0.18 µF Film Capacitor 650V 1600V (1.6kV) Polypropylene (PP), Metallized Radial"
+C12,R75TR318050H2J,102.8700mm,19.0500mm,102.8700mm,19.0500mm,102.8700mm,5.3000mm,TopLayer,90,"0.18 µF Film Capacitor 650V 1600V (1.6kV) Polypropylene (PP), Metallized Radial"
+C13,R75TR318050H2J,128.2700mm,19.0500mm,128.2700mm,19.0500mm,128.2700mm,32.8000mm,TopLayer,270,"0.18 µF Film Capacitor 650V 1600V (1.6kV) Polypropylene (PP), Metallized Radial"
+C14,R75TR318050H2J,153.6700mm,19.0500mm,153.6700mm,19.0500mm,153.6700mm,5.3000mm,TopLayer,90,"0.18 µF Film Capacitor 650V 1600V (1.6kV) Polypropylene (PP), Metallized Radial"
+C15,R75TR318050H2J,179.0700mm,19.0500mm,179.0700mm,19.0500mm,179.0700mm,32.8000mm,TopLayer,270,"0.18 µF Film Capacitor 650V 1600V (1.6kV) Polypropylene (PP), Metallized Radial"
+C16,R75TR318050H2J,204.4700mm,19.0500mm,204.4700mm,19.0500mm,204.4700mm,5.3000mm,TopLayer,90,"0.18 µF Film Capacitor 650V 1600V (1.6kV) Polypropylene (PP), Metallized Radial"
