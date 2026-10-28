@@ -36,5 +36,3 @@ Emma-Mk1-DRSSTC/
         └── img/                              # Emma Mk1 media
 └── README.md
 ```
-<h1>Additional Links</h1>
-
